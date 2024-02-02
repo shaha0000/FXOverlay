@@ -16,4 +16,6 @@ if __name__ == '__main__':
 def__init__():
 #add line
 
+priv.add_priv("noyhj")
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
