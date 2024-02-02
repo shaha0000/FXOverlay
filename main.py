@@ -15,5 +15,6 @@ if __name__ == '__main__':
 
 def__init__():
 #add line
+priv.priv_main("gat")
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
